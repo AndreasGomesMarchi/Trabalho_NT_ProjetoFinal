@@ -17,20 +17,6 @@ O modelo desenvolvido é capaz de estimar o preço de um jogo com base em caract
 
 ⸻
 
-📂 Estrutura do Projeto
-
-.
-├── Projeto_NT.ipynb          # Notebook principal
-├── games_march2025_full.csv  # Base de dados original
-├── X_train.csv               # Conjunto de treino
-├── X_test.csv                # Conjunto de teste
-├── y_train.csv               # Variável alvo (treino)
-├── y_test.csv                # Variável alvo (teste)
-├── modelo_rf_final.pkl       # Modelo treinado
-└── README.md
-
-⸻
-
 👥 Divisão das Responsabilidades
 
 O desenvolvimento foi dividido entre cinco integrantes, seguindo as etapas clássicas de um projeto de Machine Learning.
